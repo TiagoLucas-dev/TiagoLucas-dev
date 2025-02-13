@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🌆atualmente trabalhando no meu portfólio<br>🎓estudando engenharia de software pela UNICESUMAR<br>👨‍💻trabalhando como desenvolvedor web desde 2024
+🌆Atualmente trabalhando no meu portfólio<br>🎓Estudando engenharia de software pela UNICESUMAR<br>👨‍💻Trabalhando como desenvolvedor web desde 2024
 
 
 ## 🌐 Contatos:
