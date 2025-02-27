@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Ol%C3%A1+pode+me+chamar+de+Tiago+Lucas;Seja+bem+vindo!!!+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Ol%C3%A1+pode+me+chamar+de+Tiago+Lucas;Seja+bem+vindo!!!+%3A)](https://git.io/typing-svg)
 
 
 # 💫 Sobre mim:
