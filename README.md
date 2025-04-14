@@ -3,6 +3,7 @@
 
 # 💫 Sobre mim:
 🌆Atualmente trabalhando no meu portfólio<br>🎓Estudando engenharia de software pela UNICESUMAR<br>👨‍💻Trabalhando como desenvolvedor web desde 2024
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagolucasdasilva/) 
 
 
